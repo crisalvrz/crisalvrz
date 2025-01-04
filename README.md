@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @crisalvrz
-- 👀 I’m interested in cybersecurity and code-learning
-- 🌱 I’m currently learning python and java
-- 💞️ I’m looking to collaborate on future projects
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: IDK
-
-<!---
-crisalvrz/crisalvrz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Cris, soon-to-be Technician in Computer Systems Administration.
+- 👀 I’m interested in many technological fields, such as cybersecurity and code-learning
+- 🌱 I’m currently learning python and java, as well as improving my bash scripting skills :)

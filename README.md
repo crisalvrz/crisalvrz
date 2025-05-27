@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Cris, soon-to-be Technician in Computer Systems Administration.
-- 👀 I’m interested in many technological fields, such as cybersecurity and code-learning
+-  Hi, I’m Cris, soon-to-be Technician in Computer Systems Administration.
+-  I’m interested in many technological fields, such as cybersecurity and code-learning.
 - 🌱 I’m currently learning python and java, as well as improving my bash scripting skills :)

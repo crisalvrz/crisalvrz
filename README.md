@@ -39,9 +39,8 @@ About me
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 <br>
-❊ My stats :
+❊ Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crisalvrz&show_icons=true&theme=dark" height="170" alt="stats card"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisalvrz&layout=compact&theme=dark" height="170" alt="languages card"  />
 </div>

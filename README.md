@@ -1,7 +1,7 @@
 
-<h1 align="center"> Welcome to my Github! I'm Cris Alvarez 👋</h1>
+<h1 align="center"> ❊ Welcome to my Github! I'm Cris Alvarez ❊ </h1>
 
-❊ About me
+About me
 
 𖦹𖦹𖦹 Hi, I’m Cris, Technician in Computer Systems Administration 𖦹𖦹𖦹
 

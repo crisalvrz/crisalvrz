@@ -1,12 +1,14 @@
 
 <h1 align="center"> Welcome to my Github! I'm Cris Alvarez 👋</h1>
 
-👩‍💻 About me
+❊ About me
 
-Hi, I’m Cris, Technician in Computer Systems Administration.
+𖦹𖦹𖦹 Hi, I’m Cris, Technician in Computer Systems Administration 𖦹𖦹𖦹
 
-- I’m interested in many technological fields, such as cybersecurity, cloud and code-learning.
-- 🌱 I’m currently learning Python and Java, as well as improving my Bash scripting skills :)
+- I've studied ASIR but I’m interested in several technological fields such as cybersecurity, cloud and code-learning.
+- I’m currently learning Python and Java, as well as improving my Bash scripting skills. 🌱 
+- I'm fluent in English (C2 level) and Spanish, and I really enjoy learning new languages.
+- Other interests I have include audiovisual editing, handcrafts and writing.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/cristina-álvarezb"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
@@ -37,7 +39,7 @@ Hi, I’m Cris, Technician in Computer Systems Administration.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 <br>
-🔥 My stats :
+❊ My stats :
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=crisalvrz&show_icons=true&theme=dark" height="170" alt="stats card"  />

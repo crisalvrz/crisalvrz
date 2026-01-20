@@ -1,11 +1,11 @@
 
 <h1 align="center"> Welcome to my Github! I'm Cris Alvarez 👋</h1>
 
-### 👩‍💻 About me
+👩‍💻 About me
 
 Hi, I’m Cris, Technician in Computer Systems Administration.
 
-- 🔭 I’m interested in many technological fields, such as cybersecurity, cloud and code-learning.
+- I’m interested in many technological fields, such as cybersecurity, cloud and code-learning.
 - 🌱 I’m currently learning Python and Java, as well as improving my Bash scripting skills :)
 
 <div align="center">
@@ -17,7 +17,7 @@ Hi, I’m Cris, Technician in Computer Systems Administration.
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3MwNnE3djBucmJpNDhwbWo3OGw4ZzZvanc5aXNqanAzcHJ0aGZ3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif"  />
 </div>
 <br>
-### 🛠 Languages and tools
+🛠 Languages and tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
@@ -43,3 +43,8 @@ Hi, I’m Cris, Technician in Computer Systems Administration.
   <img src="https://github-readme-stats.vercel.app/api?username=crisalvrz&show_icons=true&theme=dark" height="170" alt="stats card"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisalvrz&layout=compact&theme=dark" height="170" alt="languages card"  />
 </div>
+<br>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+

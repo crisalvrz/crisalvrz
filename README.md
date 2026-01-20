@@ -20,7 +20,7 @@ About me
 </div>
 <br>
 🛠 Languages and tools
-
+<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />

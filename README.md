@@ -41,6 +41,6 @@ About me
 <br>
 ❊ Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisalvrz&layout=compact&theme=dark" height="170" alt="languages card"  />
 </div>

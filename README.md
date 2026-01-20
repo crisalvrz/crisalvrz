@@ -1,14 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/cristina-álvarezb"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=crisalvrz.github.io&"  />
-</div>
 
 <h1 align="center">¡Hola! Soy Cristina Alvarez 👋</h1>
 
@@ -18,6 +7,15 @@ Hi, I’m Cris, Technician in Computer Systems Administration.
 
 - 🔭 I’m interested in many technological fields, such as cybersecurity, cloud and code-learning.
 - 🌱 I’m currently learning Python and Java, as well as improving my Bash scripting skills :)
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/cristina-álvarezb"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+</div>
+
+
+<div align="center">
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3MwNnE3djBucmJpNDhwbWo3OGw4ZzZvanc5aXNqanAzcHJ0aGZ3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif"  />
+</div>
 
 ### 🛠 Languages and tools
 
